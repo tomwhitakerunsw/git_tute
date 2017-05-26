@@ -1,2 +1,4 @@
 GIT FILE FIRST
-   mjnlkn eqde
+   mjnlkn eqdeadd new line
+\n add new line
+,qenjdansjfkdnwqekjnas
